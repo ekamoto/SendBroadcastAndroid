@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SendBroadcast</string>
+    <string name="label_enviar_broadcast">Enviar</string>
+    <string name="describe_app">Transmissão de mensagem entre aplicações:</string>
+</resources>
