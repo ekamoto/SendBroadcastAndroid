@@ -19,6 +19,7 @@ public class MyActivity extends Activity {
 
         String teste = "HisamotoBroadCast";
         intent = new Intent(teste);
+        intent.addCategory("Categoria teste");
 
         btnEnviar = (Button)findViewById(R.id.sendBroadcast);
 
