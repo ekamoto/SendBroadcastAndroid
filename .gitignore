@@ -1,9 +1,4 @@
 .idea/
-SendBroadcast.iml
-ant.properties
 gen/
-local.properties
 out/
-proguard-project.txt
-project.properties
 sendBroadcast.iml
