@@ -27,6 +27,7 @@ public class MyActivity extends Activity {
             @Override
             public void onClick(View v) {
                 intent.putExtra("nome", "Leandro Shindi Ekamoto vindo por broadcast");
+                intent.putExtra("gmail", "ekamoto.leandro@gmail.com vindo por broadcast");
                 getApplication().sendBroadcast(intent);
             }
         });
